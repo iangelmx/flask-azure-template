@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Ignoring azure folder
+.azure
+
 # Distribution / packaging
 .Python
 build/
